@@ -9,4 +9,4 @@
   - ![Me](WIN_25671130_14_52_43_Pro.jpg)
 
 - My Buddy :
-  - *[integrity](https://6530200851.github.io/integrity)* 
+  - *[6530200282 Sitthipong Klaewkla](https://6530200851.github.io/integrity)* 
