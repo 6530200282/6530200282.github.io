@@ -1,7 +1,7 @@
 # 6530200282.github.io
 
 - Profile : 
-  - name : Piyaphum Muetkhambong
+  - Name : Piyaphum Muetkhambong
   - Nickname : Phum
   - Email: piyaphum.m@ku.th
 
